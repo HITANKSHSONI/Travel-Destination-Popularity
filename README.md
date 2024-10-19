@@ -42,6 +42,8 @@ This project analyzes the popularity of travel destinations using web scraping a
 * Determined factors influencing destination popularity, including festivals/events, nationalities of visitors, and city ratings.
 * Created interactive dashboards to visualize and communicate the insights gained from the data analysis.
   ![Tabluevisualization](https://github.com/user-attachments/assets/7d3e3522-8284-40e0-b895-32916b0b945b)
+  ![image](https://github.com/user-attachments/assets/336c6c37-36a5-40a6-8654-1adb9dbf8228)
+
 
 **Project Implications:**
 
