@@ -8,6 +8,7 @@ This project analyzes the popularity of travel destinations using web scraping a
 
 * Collect comprehensive travel data from diverse online sources.
 * Clean and preprocess the data to ensure accuracy and reliability.
+
 * Perform EDA to uncover insights into destination popularity.
 * Visualize and present the findings using interactive dashboards.
 * Identify peak tourism seasons and factors influencing popularity.
@@ -40,6 +41,7 @@ This project analyzes the popularity of travel destinations using web scraping a
 * Identified peak tourism seasons for different cities based on flight prices, hotel costs, and Google Trends data.
 * Determined factors influencing destination popularity, including festivals/events, nationalities of visitors, and city ratings.
 * Created interactive dashboards to visualize and communicate the insights gained from the data analysis.
+  ![Tabluevisualization](https://github.com/user-attachments/assets/7d3e3522-8284-40e0-b895-32916b0b945b)
 
 **Project Implications:**
 
